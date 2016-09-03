@@ -1,0 +1,9 @@
+<Ui>
+	<!-- Libraries -->
+	<Script file='LibResInfo-1.0\LibStub\LibStub.lua'/>
+	<Script file='LibResInfo-1.0\CallbackHandler-1.0\CallbackHandler-1.0.lua'/>
+	<Script file='LibResInfo-1.0\LibResInfo-1.0.lua'/>
+
+	<!-- Project -->
+	<Script file='oUF_Resurrect.lua'/>
+</Ui>

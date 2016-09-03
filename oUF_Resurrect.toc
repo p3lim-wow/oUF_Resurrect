@@ -1,0 +1,8 @@
+## Interface: 70000
+## Author: p3lim
+## Version: @project-version@
+## Title: oUF Resurrect
+## Notes: Resurrect icons element plugin for oUF, powered by LibResInfo
+## RequiredDeps: oUF
+
+embed.xml

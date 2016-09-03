@@ -1,0 +1,14 @@
+package-as: oUF_Resurrect
+
+externals:
+  LibResInfo-1.0: git://git.curseforge.com/wow/libresinfo/mainline.git
+
+required-dependencies:
+  - libresinfo
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - README.md
