@@ -4,5 +4,6 @@
 ## Title: oUF Resurrect
 ## Notes: Resurrect icons element plugin for oUF, powered by LibResInfo
 ## RequiredDeps: oUF
+## OptionalDeps: LibResInfo-1.0
 
 embed.xml
