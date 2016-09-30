@@ -7,10 +7,10 @@ local LRI = LibStub('LibResInfo-1.0', true)
 assert(LRI, elementName .. ' requires LibResInfo-1.0')
 
 oUF.colors.resurrect = {
-	CASTING = {1, 1, 1}, -- XXX
-	MASSRES = {1, 1, 1}, -- XXX
-	SELFRES = {1, 1, 1}, -- XXX
-	PENDING = {1, 1, 1}, -- XXX
+	CASTING = {1, 1, 1},
+	MASSRES = {1, 1, 1},
+	SELFRES = {0.3, 0.3, 1},
+	PENDING = {0.3, 1, 0.3},
 }
 
 local function Update(self, event, unit)
