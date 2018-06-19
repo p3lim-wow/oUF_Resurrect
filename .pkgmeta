@@ -1,10 +1,11 @@
 package-as: oUF_Resurrect
 
 externals:
-  LibResInfo-1.0: git://git.curseforge.com/wow/libresinfo/mainline.git
-
-required-dependencies:
-  - libresinfo
+  libs/LibStub:
+    url: https://repos.wowace.com/wow/libstub/trunk
+    tag: 1.0
+  libs/CallbackHandler-1.0: https://repos.wowace.com/wow/callbackhandler/trunk/CallbackHandler-1.0
+  libs/LibResInfo-1.0: https://repos.curseforge.com/wow/libresinfo
 
 manual-changelog:
   filename: CHANGELOG.md
@@ -12,3 +13,4 @@ manual-changelog:
 
 ignore:
   - README.md
+  - utils

@@ -6,4 +6,8 @@
 ## RequiredDeps: oUF
 ## OptionalDeps: LibResInfo-1.0
 
-embed.xml
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\LibResInfo-1.0\LibResInfo-1.0.lua
+
+oUF_Resurrect.lua
